@@ -1,0 +1,8 @@
+{
+  "name": "VANTA HOME",
+  "short_name": "VANTA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0e0d0c",
+  "background_color": "#faf8f5"
+}
